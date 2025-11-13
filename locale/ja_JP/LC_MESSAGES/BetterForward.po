@@ -734,10 +734,8 @@ msgid "Invalid action received"
 msgstr "無効な操作"
 
 #: src/handlers/command_handler.py:50
-msgid ""
-"I'm a bot that forwards messages, so please just tell me what you want to "
-"say."
-msgstr ""
+msgid "👋 Hello!\nWelcome to contact [绀漓丨Sevtinge](@Sevtinge). The message you send will be forwarded to 绀漓, please wait patiently for a reply.\n\n - /delete Delete message\n - /help View this help"
+msgstr "👋 こんにちは！\n[绀漓丨Sevtinge](@Sevtinge) にお問い合わせいただきありがとうございます。送信されたメッセージは绀漓に転送されますので、返信までしばらくお待ちください。\n\n - /delete メッセージを削除\n - /help このヘルプを見る"
 
 #: src/handlers/command_handler.py:60
 msgid "This command is not available in the main chat."
