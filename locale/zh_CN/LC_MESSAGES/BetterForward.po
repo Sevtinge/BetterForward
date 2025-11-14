@@ -751,18 +751,8 @@ msgid "Invalid action received"
 msgstr "接收到无效的操作"
 
 #: src/handlers/command_handler.py:50
-msgid ""
-"👋 Hello!\n"
-"Welcome to contact [绀漓丨Sevtinge](@Sevtinge). The message you send will be forwarded to 绀漓, please wait patiently for a reply.\n"
-"\n"
-" - /delete Delete message\n"
-" - /help View this help"
-msgstr ""
-"👋 你好！\n"
-"欢迎联系 [绀漓丨Sevtinge](@Sevtinge) ，您发送的消息会被转发至绀漓，请耐心等待回复。\n"
-"\n"
-" - /delete 删除消息\n"
-" - /help 查看此帮助"
+msgid "👋 Hello!\nWelcome to contact [绀漓丨Sevtinge](@Sevtinge). The message you send will be forwarded to 绀漓, please wait patiently for a reply.\n\n - /delete Delete message\n - /help View this help"
+msgstr "👋 你好！\n欢迎联系 [绀漓丨Sevtinge](@Sevtinge) ，您发送的消息会被转发至绀漓，请耐心等待回复。\n\n - /delete 删除消息\n - /help 查看此帮助"
 
 #: src/handlers/command_handler.py:60
 msgid "This command is not available in the main chat."
